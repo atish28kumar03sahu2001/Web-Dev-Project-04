@@ -11,20 +11,20 @@ Vite is a modern front-end build tool that provides a fast and efficient develop
 
 
 1. Fast Development Server
-
-Vite uses native ES Modules (ESM) in modern browsers, allowing it to serve your code directly without bundling during development. This results in near-instant server startup.
+  
+  * Vite uses native ES Modules (ESM) in modern browsers, allowing it to serve your code directly without bundling during development. This results in near-instant server startup.
 
 2. Lightning-Fast Hot Module Replacement (HMR)
 
-Vite updates only the parts of your application that change, enabling real-time feedback during development.
+  * Vite updates only the parts of your application that change, enabling real-time feedback during development.
 
 3. Built-in Bundler for Production
 
-While development is fast, Vite uses Rollup (a powerful bundler) to produce optimized builds for production.
+  * While development is fast, Vite uses Rollup (a powerful bundler) to produce optimized builds for production.
 
 4. Extensibility
 
-Vite supports plugins for features like TypeScript, JSX, and PostCSS. It is also framework-agnostic, so you can use it with libraries like React, Vue, or vanilla JavaScript.
+  * Vite supports plugins for features like TypeScript, JSX, and PostCSS. It is also framework-agnostic, so you can use it with libraries like React, Vue, or vanilla JavaScript.
 
 
 ## Why Use Vite For HTML, CSS, & JavaScript Project
@@ -32,45 +32,29 @@ Vite supports plugins for features like TypeScript, JSX, and PostCSS. It is also
 
 1. Performance Benefits
 
-* Fast Startup: 
-
-Traditional bundlers pre-bundle everything upfront, which can be slow for large projects. Vite avoids this overhead in development.
-
-* Efficient Builds: 
-
-Optimized for faster production builds using tree-shaking and code splitting.
+  * Fast Startup: Traditional bundlers pre-bundle everything upfront, which can be slow for large projects. Vite avoids this overhead in development.
+  * Efficient Builds: Optimized for faster production builds using tree-shaking and code splitting.
 
 2. Modern Tooling
 
-* ESM Support: 
-
-Use the latest JavaScript features without additional configuration.
-
-* CSS Preprocessing: 
-
-Easily integrate preprocessors like SASS, LESS, or PostCSS.
-
-* HMR: 
-
-See changes in real-time for both JavaScript and CSS.
+  * ESM Support: Use the latest JavaScript features without additional configuration.
+  * CSS Preprocessing: Easily integrate preprocessors like SASS, LESS, or PostCSS.
+  * HMR: See changes in real-time for both JavaScript and CSS.
 
 3. Simple Setup
 
-* You can get started with minimal configuration, even for vanilla HTML/CSS/JavaScript projects.
-
-* Includes support for advanced features like TypeScript and JSX out of the box.
+  * You can start with minimal configuration, even for vanilla HTML/CSS/JavaScript projects.
+  * Includes support for advanced features like TypeScript and JSX out of the box.
 
 4. Flexible Development
 
-* Works well with single-page and multi-page applications.
-
-* Handles static assets like images and fonts seamlessly.
+  * Works well with single-page and multi-page applications.
+  * Handles static assets like images and fonts seamlessly.
 
 5. Community and Ecosystem
 
-* Backed by the Vue.js creator (Evan You) and has a growing ecosystem.
-
-* Compatible with popular libraries and tools.
+  * Backed by the Vue.js creator (Evan You) and has a growing ecosystem.
+  * Compatible with popular libraries and tools.
 
 
 ## How To Use Vite For Project
